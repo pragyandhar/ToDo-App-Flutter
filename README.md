@@ -17,13 +17,19 @@ A sleek, minimalist **Todo App** built with Flutter. This app allows users to ea
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/screenshots/home.jpg)
+<p align="center">
+  <img src="assets/screenshots/home.jpg" alt="Home Screen" width="300" style="border: 1px solid #ccc; border-radius: 8px;">
+</p>
 
 ### ➕ Add Task
-![Add Task](assets/screenshots/add_task.jpg)
+<p align="center">
+  <img src="assets/screenshots/add_task.jpg" alt="Add Task Screen" width="300" style="border: 1px solid #ccc; border-radius: 8px;">
+</p>
 
-### ✅ Completed Task
-![Delete Task](assets/screenshots/delete_task.jpg)
+### ✅ Delete Task
+<p align="center">
+  <img src="assets/screenshots/delete_task.jpg" alt="Completed Task Screen" width="300" style="border: 1px solid #ccc; border-radius: 8px;">
+</p>
 
 
 ---
