@@ -1,4 +1,4 @@
-# ✅ Todo App in Flutter
+# ✅ To Do App in Flutter
 
 A sleek, minimalist **Todo App** built with Flutter. This app allows users to easily add, manage, and complete their daily tasks – all within a clean and intuitive interface. Whether you're a developer looking to explore Flutter or just need a smart way to track your day, this app has you covered.
 
@@ -17,13 +17,13 @@ A sleek, minimalist **Todo App** built with Flutter. This app allows users to ea
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](assets/screenshots/home.jpg)
 
 ### ➕ Add Task
-![Add Task](assets/screenshots/add_task.png)
+![Add Task](assets/screenshots/add_task.jpg)
 
 ### ✅ Completed Task
-![Delete Task](assets/screenshots/delete_task.png)
+![Delete Task](assets/screenshots/delete_task.jpg)
 
 
 ---
