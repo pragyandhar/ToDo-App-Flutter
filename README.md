@@ -1,16 +1,80 @@
-# first_app
+# ✅ Todo App in Flutter
 
-A new Flutter project.
+A sleek, minimalist **Todo App** built with Flutter. This app allows users to easily add, manage, and complete their daily tasks – all within a clean and intuitive interface. Whether you're a developer looking to explore Flutter or just need a smart way to track your day, this app has you covered.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✍️ Add new todos quickly
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks with a single tap
+- 💾 Persistent local storage (your tasks are saved even after restarting)
+- 📱 Responsive UI for all devices
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshots/home.png)
+
+### ➕ Add Task
+![Add Task](assets/screenshots/add_task.png)
+
+### ✅ Completed Task
+![Delete Task](assets/screenshots/delete_task.png)
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Frontend)
+- **Dart** (Logic)
+- **SharedPreferences** (Local Storage)
+
+---
+
+## 📦 Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/todo_app_flutter.git
+   cd todo_app_flutter
+   ```
+
+2. **Get dependencies**
+   ```
+   flutter pub get
+   ```
+
+3. **Run the app**
+   ```
+   flutter run
+   ```
+
+---
+
+## ✨ Coming Soon
+🔔 Notifications
+⏰ Due dates
+🎨 Dark mode
+🔄 Cloud sync (Firebase)
+
+---
+
+## 🙌 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📫 Contact
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/pragyan-dhar-b98696313/) or shoot an email at pragyanchandradhar7@gmail.com.
+
+---
+
+Let me know if you want to add:
+- Firebase login
+- Tagline with your Monk Mode transformation
+- A GIF demo instead of screenshots
